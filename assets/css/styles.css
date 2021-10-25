@@ -24,7 +24,6 @@
   }
 }
 
-/*===== Margenes =====*/
 :root{
   --mb-1: 0.5rem;
   --mb-2: 1rem;
@@ -34,7 +33,6 @@
   --mb-6: 3rem;
 }
 
-/*===== z index =====*/
 :root{
   --z-back: -10;
   --z-normal: 1;
