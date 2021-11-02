@@ -53,9 +53,13 @@ body{
   font-size: var(--normal-font-size);
   color: var(--second-color);
 }
-h1,h2,p,a{
+h1,h2,p{
   margin: 0;
+ /* text-align: center;*/
+}
+a,h2,p{
   text-align: center;
+   margin: 0;
 }
 ul{
   margin: 0;
